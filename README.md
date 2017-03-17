@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this lesson, we'll look at how to reduce a list to a single value. 
+In this lesson, we'll look at how to reduce a list to a single value.
 
 ## Objectives
 
@@ -24,10 +24,10 @@ Let's pretend we're Honey Boo Boo. Bored from parading around in beauty pageants
 
 ```js
 const products = [
-  { name: 'Head & Shoulders Shampoo', standardPrice: 4.99, discount: .6 },
-  { name: 'Twinkies', standardPrice: 7.99, discount: .45 },
-  { name: 'Oreos', standardPrice: 6.49, discount: .8 },
-  { name: 'Jasmine-scented bath pearls', standardPrice: 13.99, discount: .7 },
+  { name: 'Head & Shoulders Shampoo', price: 4.99, discount: .6 },
+  { name: 'Twinkies', price: 7.99, discount: .45 },
+  { name: 'Oreos', price: 6.49, discount: .8 },
+  { name: 'Jasmine-scented bath pearls', price: 13.99, discount: .7 },
 ];
 ```
 
