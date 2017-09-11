@@ -27,7 +27,7 @@ const products = [
   { name: 'Head & Shoulders Shampoo', price: 4.99, discount: .6 },
   { name: 'Twinkies', price: 7.99, discount: .45 },
   { name: 'Oreos', price: 6.49, discount: .8 },
-  { name: 'Jasmine-scented bath pearls', price: 13.99, discount: .7 },
+  { name: 'Jasmine-scented bath pearls', price: 13.99, discount: .7 }
 ];
 ```
 
@@ -155,7 +155,7 @@ const couponLocations = [
   { room: 'Living room', amount: 5 },
   { room: 'Kitchen', amount: 2 },
   { room: 'Bathroom', amount: 1 },
-  { room: 'Master bedroom', amount: 7 },
+  { room: 'Master bedroom', amount: 7 }
 ];
 
 function couponCounter(totalAmount, location) {
